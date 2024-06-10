@@ -22,7 +22,7 @@
 I am a QA Engineer from Argentina. <img src="https://media.giphy.com/media/xLiuPwRKGGTUACgVX0/giphy.gif?cid=ecf05e476ooj93lksisbv2ldrsieixistfgp563thzopv718&ep=v1_gifs_search&rid=giphy.gif&ct=g" width="30">
 - :telescope: I’ve been working as a QA Analyst and QA Tester since 2022.
 
-- :seedling: Mentoring the new generations of Test Engineers through Under Test mentorship program. <a href="https://www.linkedin.com/company/under-test/"></a>
+- :seedling: Mentoring the new generations of Test Engineers through the Under Test mentorship program. <a href="https://www.linkedin.com/company/under-test/"></a>
 
 - :zap: Software Development Student at Universidad De La Punta.
 
